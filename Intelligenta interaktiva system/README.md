@@ -1,5 +1,7 @@
 Intelligent interactive systems
 
+note: Code is not clean
+
 This folder contains the course project in intelligent interactive systems.
 
 * Sub system 1: Contains a model for extracting landmarks in images using CNN.
