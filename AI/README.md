@@ -2,7 +2,7 @@
 
 Course Artificial Intelligence 
 
-note: Code is clean
+note: Code is not clean
 
 This repository contains the following assignments:
 
